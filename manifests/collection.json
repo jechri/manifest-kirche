@@ -11,5 +11,11 @@
       "en" : [ "Kirche" ]
     },
     "type" : "Manifest"
+  }, {
+    "id" : "https://jechri.github.io/manifest-kirche/manifests/manifest-2.json",
+    "label" : {
+      "en" : [ "Kirche" ]
+    },
+    "type" : "Manifest"
   } ]
 }
