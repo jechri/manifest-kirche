@@ -1,0 +1,108 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://example.org/ufi2k13nsp-m88md3ku",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Kirche"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://example.org/ufi2k13nsp-m88md3ku/canvas/eob84lw7oj-m88mfjmt",
+      "type": "Canvas",
+      "height": 5686,
+      "width": 4991,
+      "label": {
+        "en": [
+          ""
+        ]
+      },
+      "items": [
+        {
+          "id": "https://example.org/ufi2k13nsp-m88md3ku/canvas/eob84lw7oj-m88mfjmt/annotation-page/1q3hppfy3kb-m88mfjmt",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/ufi2k13nsp-m88md3ku/canvas/eob84lw7oj-m88mfjmt/annotation-page/1q3hppfy3kb-m88mfjmt/annotation/5z8m7u1ls9r-m88mfq0g",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/ufi2k13nsp-m88md3ku/canvas/eob84lw7oj-m88mfjmt",
+              "body": {
+                "id": "https://www.e-rara.ch/bes_1/i3f/v21/12530938/full/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 5686,
+                "width": 4991
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/ufi2k13nsp-m88md3ku/canvas/lpkqgjlwv7-m88miw0y",
+      "type": "Canvas",
+      "height": 749,
+      "width": 1000,
+      "label": {
+        "en": [
+          ""
+        ]
+      },
+      "items": [
+        {
+          "id": "https://example.org/ufi2k13nsp-m88md3ku/canvas/lpkqgjlwv7-m88miw0y/annotation-page/h73oawi86ad-m88miw0y",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/ufi2k13nsp-m88md3ku/annotation/ced0jnv60ku-m88mivy3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/ufi2k13nsp-m88md3ku/canvas/lpkqgjlwv7-m88miw0y",
+              "body": {
+                "id": "https://www.e-manuscripta.ch/download/webcache/1000/2356505",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 749,
+                "width": 1000
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/ufi2k13nsp-m88md3ku/canvas/fbtzlsblv3d-m88mlfe5",
+      "type": "Canvas",
+      "height": 11469,
+      "width": 9725,
+      "label": {
+        "en": [
+          ""
+        ]
+      },
+      "items": [
+        {
+          "id": "https://example.org/ufi2k13nsp-m88md3ku/canvas/fbtzlsblv3d-m88mlfe5/annotation-page/wy5znes3ts-m88mlfe5",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/ufi2k13nsp-m88md3ku/canvas/fbtzlsblv3d-m88mlfe5/annotation-page/wy5znes3ts-m88mlfe5/annotation/tm2a75ac45d-m88mlm8z",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/ufi2k13nsp-m88md3ku/canvas/fbtzlsblv3d-m88mlfe5",
+              "body": {
+                "id": "https://stacks.stanford.edu/image/iiif/hs631zg4177/hs631zg4177_00_0001/17687,7148,9725,11469/full/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 11469,
+                "width": 9725
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
