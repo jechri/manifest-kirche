@@ -55,30 +55,7 @@
         }
       } ]
     } ]
-  }, {
-    "id" : "https://example.org/ufi2k13nsp-m88md3ku/canvas/fbtzlsblv3d-m88mlfe5",
-    "type" : "Canvas",
-    "height" : 11469,
-    "width" : 9725,
-    "label" : {
-      "en" : [ "" ]
-    },
-    "items" : [ {
-      "id" : "https://example.org/ufi2k13nsp-m88md3ku/canvas/fbtzlsblv3d-m88mlfe5/annotation-page/wy5znes3ts-m88mlfe5",
-      "type" : "AnnotationPage",
-      "items" : [ {
-        "id" : "https://example.org/ufi2k13nsp-m88md3ku/canvas/fbtzlsblv3d-m88mlfe5/annotation-page/wy5znes3ts-m88mlfe5/annotation/tm2a75ac45d-m88mlm8z",
-        "type" : "Annotation",
-        "motivation" : "painting",
-        "target" : "https://example.org/ufi2k13nsp-m88md3ku/canvas/fbtzlsblv3d-m88mlfe5",
-        "body" : {
-          "id" : "https://stacks.stanford.edu/image/iiif/hs631zg4177/hs631zg4177_00_0001/17687,7148,9725,11469/full/0/default.jpg",
-          "type" : "Image",
-          "format" : "image/jpeg",
-          "height" : 11469,
-          "width" : 9725
-        }
-      } ]
+  }, 
     } ]
   } ]
 }
