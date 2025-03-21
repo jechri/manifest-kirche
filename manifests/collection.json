@@ -1,0 +1,15 @@
+{
+  "id" : "https://jechri.github.io/manifest-kirche/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in jechri/manifest-kirche project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "id" : "https://jechri.github.io/manifest-kirche/manifests/manifest-kirche.json",
+    "label" : {
+      "en" : [ "Kirche" ]
+    },
+    "type" : "Manifest"
+  } ]
+}
